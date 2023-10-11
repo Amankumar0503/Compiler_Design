@@ -1,0 +1,8 @@
+result = (p * p) + (q * q) - (r * r);
+result = x++ * ++x;
+result = ++y;
+result = a++ * 5.4;
+result = --b;
+result = value - (2 * -3);
+result = -(a + b);
+result = (-10 / c) % d;
