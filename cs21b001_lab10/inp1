@@ -1,0 +1,21 @@
+switch (char2)
+{
+    case char1 :  a++ ; 
+                 switch (char12))
+                    {
+                        case char11 :  t++ ; 
+                                    break; 
+                        case char12 : k++ ; 
+                                    break; 
+                        default : 
+                                d++;
+                    }     
+                     o++;        
+
+                  break; 
+    case char2  :  b++ ; 
+                  break; 
+    default : 
+            c++; 
+}
+m++;

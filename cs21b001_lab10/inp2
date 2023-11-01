@@ -1,0 +1,10 @@
+switch (char1)
+{
+    case char1 :  a++ ; 
+                  break; 
+    case char2  :  b++ ; 
+                  break; 
+    default : 
+            c++; 
+}
+m++;
