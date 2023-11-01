@@ -1,7 +1,7 @@
 switch (char2)
 {
     case char1 :  a++ ; 
-                 switch (char12))
+                 switch (char12)
                     {
                         case char11 :  t++ ; 
                                     break; 
